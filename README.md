@@ -20,4 +20,4 @@ Just like other github users, this is not my work account; some commits are omit
 - Observable: https://observablehq.com/@rabelais
 - Codepen: https://codepen.io/rabelais88
 - Codesandbox: https://codesandbox.io/u/rabelais88
-- Instagram: https://instagram.com/@rabelais
+- Instagram: https://instagram.com/rabelais
