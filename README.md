@@ -20,7 +20,7 @@ Just like other github users, this is not my work account; some commits are omit
 
 # Links
 
-- Official web🏠: https://sungryeol.vercel.app
+- Official web🏠: https://sungryeol.com/
 - Observable(data visualization): https://observablehq.com/@rabelais
 - Codepen: https://codepen.io/rabelais88
 - Codesandbox(especially 3D): https://codesandbox.io/u/rabelais88
