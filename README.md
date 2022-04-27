@@ -27,7 +27,7 @@ Just like other github users, this is not my work account; some commits are omit
 - Instagram: https://instagram.com/rabelais
 - Stackoverflow: https://stackoverflow.com/users/9292770/sungryeol
 
-# 3d Web Apps
+# 3d Data Visualizations
 - https://art-collection-hangeul-museum.vercel.app/
 - https://gamecoach-online-state-2021.vercel.app/
 - https://birkman.vercel.app/
