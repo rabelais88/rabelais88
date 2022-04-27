@@ -7,7 +7,7 @@ I especially love❣️ data📈, visuals👁️ and cool stuff😎.
 # Specialty
 I've been working as a frontend web engineer. These are the toolsets frequently used for my projects:
 
- - Javascript/Typescript/Node.js
+ - Javascript/Typescript/Node.js/WebGL
  - Go
  - Python
  - Rust
